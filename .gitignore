@@ -1,0 +1,11 @@
+data/
+*.docx
+*.pdf
+*.pptx
+*.mp4
+*.npy
+~$*
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+venv/

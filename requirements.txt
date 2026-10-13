@@ -1,0 +1,11 @@
+numpy
+pandas
+polars
+pyarrow
+scipy
+scikit-learn
+matplotlib
+tqdm
+huggingface-hub
+implicit
+jupyter
